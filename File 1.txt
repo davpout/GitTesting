@@ -1,1 +1,2 @@
+An update to the main Base clase
 From the Initial master not to have any project specific stuff
